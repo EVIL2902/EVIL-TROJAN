@@ -1,4 +1,4 @@
-# EVIL-TROJAN
+# craxs-rat-v7.5
 
 
 
@@ -12,20 +12,9 @@ The file must be opened manually by you with admin access
 
 
 
-NAME = EVIL TROJAN
+NAME = Craxs Rat v7.5
 
 
 
 PASSWORD FILE : evil123904
 
-
-
-TELEGRAM : @fbi_attack0
-
-
-
-If you want to see the working of this Trojan making tool, come to my website
-
-
-
-https://quentrox.whi.ir/Home.html
